@@ -1,0 +1,6 @@
+{
+  "name": "Digital Document & Certificate Vault",
+  "description": "Securely upload, manage, categorize, and view personal and professional documents with Cloudinary & MongoDB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
